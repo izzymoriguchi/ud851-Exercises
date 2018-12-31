@@ -1,5 +1,22 @@
 # Toy App Exercise Repo
 
-This is a exercise repository for Developing Android Apps. You can learn more about how to use this repository [here](https://classroom.udacity.com/courses/ud851/lessons/93affc67-3f0b-4f9b-b3a4-a7a26f241a86/concepts/115d08bb-f114-46fa-b693-5c6ce1445c07)
+This is a exercise repository for Developing Android Apps. 
+
+## ud851-Exercises
+  - Lesson01-Favorite-Toys
+  - Lesson02-GitHub-Repo-Search
+  - [Lesson03-Green-Recycler-View](#Lesson03-Green-Recycler-View)
+
+
+
+### Lesson03-Green-Recycler-View
+- Lesson03-Green-Recycler-View
+  - Create a layout for a RecyclerView
+  - Add a required dependency in Gradle for using RecyclerView
+- Lesson03-Green-Recycler-View
+  - Adding Items to RecyclerView
+    - Create a layout file for RecyclerView list item
+    - Add ViewHolder to adapter to cache the view holders
+
 
 
