@@ -10,13 +10,16 @@ This is a exercise repository for Developing Android Apps.
 
 
 ### Lesson03-Green-Recycler-View
-- Lesson03-Green-Recycler-View
+- T03.01-Exercise-RecyclerViewLayout
   - Create a layout for a RecyclerView
   - Add a required dependency in Gradle for using RecyclerView
-- Lesson03-Green-Recycler-View
+- T03.02-Exercise-ViewHolder
   - Adding Items to RecyclerView
     - Create a layout file for RecyclerView list item
     - Add ViewHolder to adapter to cache the view holders
+- T03.03-Exercise-RecyclerViewAdapter
+  - Learn how to create Adapter
+  - Learn how to override three functions for Adapter
 
 
 
