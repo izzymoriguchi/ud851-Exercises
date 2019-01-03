@@ -1,6 +1,6 @@
 # Toy App Exercise Repo
 
-This is a exercise repository for Developing Android Apps. 
+This is a exercise repository for Developing Android Apps.
 
 ## ud851-Exercises
   - Lesson01-Favorite-Toys
@@ -20,6 +20,8 @@ This is a exercise repository for Developing Android Apps.
 - T03.03-Exercise-RecyclerViewAdapter
   - Learn how to create Adapter
   - Learn how to override three functions for Adapter
-
-
-
+- T03.04-Exercise-WiringUpRecyclerView
+  - Learn how to connect all the components for RecyclerView
+    - How to use LayoutManager
+    - Define RecyclerView, Adapter and LayoutManager
+    - Connect everything together
