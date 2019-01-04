@@ -25,3 +25,7 @@ This is a exercise repository for Developing Android Apps.
     - How to use LayoutManager
     - Define RecyclerView, Adapter and LayoutManager
     - Connect everything together
+- T03.07-Exercise-RecyclerViewClickHandling
+  - Learn how to do click handling of list items
+    - Create an your own interface ItemClickListener within Adapter
+    - In the inner ViewHolder class, implement library View.OnClickListener and trigger to call your own listener method on "onClick" method.
