@@ -6,7 +6,7 @@ This is a exercise repository for Developing Android Apps.
   - Lesson01-Favorite-Toys
   - Lesson02-GitHub-Repo-Search
   - [Lesson03-Green-Recycler-View](#Lesson03-Green-Recycler-View)
-
+  - [Lesson04a-Starting-New-Activities](#Lesson04a-Starting-New-Activities)
 
 
 ### Lesson03-Green-Recycler-View
@@ -29,3 +29,7 @@ This is a exercise repository for Developing Android Apps.
   - Learn how to do click handling of list items
     - Create an your own interface ItemClickListener within Adapter
     - In the inner ViewHolder class, implement library View.OnClickListener and trigger to call your own listener method on "onClick" method.
+
+### Lesson04a-Starting-New-Activities
+  - T04a.01-Exercise-AddNewActivity
+    - Learn how to create a new activity 
