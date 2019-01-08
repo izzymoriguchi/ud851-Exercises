@@ -33,3 +33,7 @@ This is a exercise repository for Developing Android Apps.
 ### Lesson04a-Starting-New-Activities
   - T04a.01-Exercise-AddNewActivity
     - Learn how to create a new activity 
+  - T04a.02-Exercise-StartNewActivity
+    - Learn how to start a new activity
+  - T04a.03-Exercise-PassingDataBetweenActivities
+    - Learn how to send and receive data through intent
