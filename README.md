@@ -46,4 +46,8 @@ This is a exercise repository for Developing Android Apps.
     - T04b.02-Exercise-OpenMap
       - Learn how to use implicit intent to open specific location on a map
       - Learn how to create Uri from String using Uri.Builder
+    - T04b.03-Exercise-ShareText
+      - Learn how to share contents to other apps using ShareCompat
+      - Learn how to use ShareCompat.IntentBuilder
+
 
