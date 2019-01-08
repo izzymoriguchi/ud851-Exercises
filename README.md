@@ -29,7 +29,7 @@ This is a exercise repository for Developing Android Apps.
 - T03.07-Exercise-RecyclerViewClickHandling
   - Learn how to do click handling of list items
     - Create an your own interface ItemClickListener within Adapter
-    - In the inner ViewHolder class, implement library View.OnClickListener and trigger to call your own listener method on "onClick" method.
+    - In the inner ViewHolder class, implement library View.OnClickListener and trigger to call your own listener method on "onClick" method
 
 ### Lesson04a-Starting-New-Activities
   - T04a.01-Exercise-AddNewActivity
@@ -42,4 +42,8 @@ This is a exercise repository for Developing Android Apps.
 ### Lesson04b-Webpages-Maps-and-Sharing
   - Learn about implicit intent
     - T04b.01-Exercise-OpenWebpage
-      - Learn about how to use implicit intent to open a web page from an app.
+      - Learn about how to use implicit intent to open a web page from an app
+    - T04b.02-Exercise-OpenMap
+      - Learn how to use implicit intent to open specific location on a map
+      - Learn how to create Uri from String using Uri.Builder
+
