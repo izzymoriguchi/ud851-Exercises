@@ -7,6 +7,7 @@ This is a exercise repository for Developing Android Apps.
   - Lesson02-GitHub-Repo-Search
   - [Lesson03-Green-Recycler-View](#Lesson03-Green-Recycler-View)
   - [Lesson04a-Starting-New-Activities](#Lesson04a-Starting-New-Activities)
+  - [Lesson04b-Webpages-Maps-and-Sharing](#Lesson04b-Webpages-Maps-and-Sharing)
 
 
 ### Lesson03-Green-Recycler-View
@@ -37,3 +38,8 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to start a new activity
   - T04a.03-Exercise-PassingDataBetweenActivities
     - Learn how to send and receive data through intent
+
+### Lesson04b-Webpages-Maps-and-Sharing
+  - Learn about implicit intent
+    - T04b.01-Exercise-OpenWebpage
+      - Learn about how to use implicit intent to open a web page from an app.
