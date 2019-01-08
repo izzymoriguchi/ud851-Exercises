@@ -9,6 +9,19 @@ This is a exercise repository for Developing Android Apps.
   - [Lesson04a-Starting-New-Activities](#Lesson04a-Starting-New-Activities)
   - [Lesson04b-Webpages-Maps-and-Sharing](#Lesson04b-Webpages-Maps-and-Sharing)
 
+### Lesson02-GitHub-Repo-Search
+- T02.01-Exercise-CreateLayout
+- T02.02-Exercise-AddMenu
+  - Learn how to create a menu
+  - Add the menu item for search to the Menu Resource, setting it to showAction ifRoom
+  - Inflate the menu using onCreateOptionsMenu
+  - Display a toast using onOptionsItemSelected when Search is selected
+- T02.03-Exercise-DisplayUrl
+  - Build the Url that will be used to query Github and display it when the Search button is pressed
+- T02.04-Exercise-ConnectingToTheInternet
+  - Add internet permision.
+- T02.05-Exercise-CreateAsyncTask
+- T02.06-Exercise-AddPolish
 
 ### Lesson03-Green-Recycler-View
 - T03.01-Exercise-RecyclerViewLayout
