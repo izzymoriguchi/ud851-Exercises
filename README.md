@@ -65,4 +65,9 @@ This is a exercise repository for Developing Android Apps.
       - Learn how to share contents to other apps using ShareCompat
       - Learn how to use ShareCompat.IntentBuilder
 
+### Lesson05a-Android-Lifecycle
+  - T05a.01-Exercise-LogLifecycle
+    - Learn about the basic flow of Android life cycle
+    - onCreate, onStart, onResume, onPause, onStop, onDestroy
+
 
