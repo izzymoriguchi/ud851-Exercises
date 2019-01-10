@@ -72,5 +72,8 @@ This is a exercise repository for Developing Android Apps.
   - T05a.02-Exercise-PersistData
     - Learn how to use onSaveInstanceState with Bundle
     - check Bundle in onCreate to see if we saved any instance
+  - T05a.03-Exercise-FixLifecycleDisplayBug
+    - Learn how to show onPause and onDestroy on textview using ArrayList
+    - Learn when we get onRestart
 
 
