@@ -76,4 +76,10 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to show onPause and onDestroy on textview using ArrayList
     - Learn when we get onRestart
 
+### Lesson05b-Smarter-GitHub-Repo-Search
+  - T05b.01-Exercise-SaveResults
+    - Using Github repo search example, learn how to preserve data when screen rotation happens
+      - Save TextView data in onSaveInstanceState through Bundle
+      - Get the saved data in onCreate when Bundle object savedInstanceState is not null
+
 
