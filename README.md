@@ -81,5 +81,7 @@ This is a exercise repository for Developing Android Apps.
     - Using Github repo search example, learn how to preserve data when screen rotation happens
       - Save TextView data in onSaveInstanceState through Bundle
       - Get the saved data in onCreate when Bundle object savedInstanceState is not null
+  - T05b.02-Exercise-AddAsyncTaskLoader
+    - Learn how to use AsyncTaskLoader to deal with issues when device rotation during thread execution happens
 
 
