@@ -69,5 +69,8 @@ This is a exercise repository for Developing Android Apps.
   - T05a.01-Exercise-LogLifecycle
     - Learn about the basic flow of Android life cycle
     - onCreate, onStart, onResume, onPause, onStop, onDestroy
+  - T05a.02-Exercise-PersistData
+    - Learn how to use onSaveInstanceState with Bundle
+    - check Bundle in onCreate to see if we saved any instance
 
 
