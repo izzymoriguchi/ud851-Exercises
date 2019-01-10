@@ -83,5 +83,9 @@ This is a exercise repository for Developing Android Apps.
       - Get the saved data in onCreate when Bundle object savedInstanceState is not null
   - T05b.02-Exercise-AddAsyncTaskLoader
     - Learn how to use AsyncTaskLoader to deal with issues when device rotation during thread execution happens
+  - T05b.03-Exercise-PolishAsyncTask
+    - Learn about caching in AsyncTaskLoader
+      - Store some variables for cached results
+      - Use(override) deliverResult in the case of caching
 
 
