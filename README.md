@@ -109,6 +109,8 @@ This is a exercise repository for Developing Android Apps.
   - T06.05-Exercise-PreferenceChangeListener
     - PreferenceChangeListener allows the preference change to be updated right away
     - Learn how to add PreferenceChangeListener
+  - T06.06-Exercise-AddTwoMoreCheckboxes
+    - Create 2 more checkboxes for treble and mid-range
 
 
 
