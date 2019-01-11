@@ -4,10 +4,12 @@ This is a exercise repository for Developing Android Apps.
 
 ## ud851-Exercises
   - Lesson01-Favorite-Toys
-  - Lesson02-GitHub-Repo-Search
+  - [Lesson02-GitHub-Repo-Search](#Lesson02-GitHub-Repo-Search)
   - [Lesson03-Green-Recycler-View](#Lesson03-Green-Recycler-View)
   - [Lesson04a-Starting-New-Activities](#Lesson04a-Starting-New-Activities)
   - [Lesson04b-Webpages-Maps-and-Sharing](#Lesson04b-Webpages-Maps-and-Sharing)
+  - [Lesson05a-Android-Lifecycle](#Lesson05a-Android-Lifecycle)
+  - [Lesson05b-Smarter-GitHub-Repo-Search](#Lesson05b-Smarter-GitHub-Repo-Search)
 
 ### Lesson02-GitHub-Repo-Search
 - T02.01-Exercise-CreateLayout
@@ -87,5 +89,7 @@ This is a exercise repository for Developing Android Apps.
     - Learn about caching in AsyncTaskLoader
       - Store some variables for cached results
       - Use(override) deliverResult in the case of caching
+
+
 
 
