@@ -113,6 +113,9 @@ This is a exercise repository for Developing Android Apps.
     - Create 2 more checkboxes for treble and mid-range
   - T06.07-Exercise-ListPreference
     - Learn how to create ListPreference
+  - T06.08-Exercise-PreferenceSummary
+    - Learn about PreferenceSummary (the current status of each user's preference item)
+      - Add preference summary for ListPreference
 
 
 
