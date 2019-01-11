@@ -111,6 +111,8 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to add PreferenceChangeListener
   - T06.06-Exercise-AddTwoMoreCheckboxes
     - Create 2 more checkboxes for treble and mid-range
+  - T06.07-Exercise-ListPreference
+    - Learn how to create ListPreference
 
 
 
