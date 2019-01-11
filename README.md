@@ -95,5 +95,11 @@ This is a exercise repository for Developing Android Apps.
   - T06.01-Exercise-SetupTheActivity
     - Using Visualizer app, learn how to set up preferences
       - Create settings menu that opens up new activity
+  - T06.02-Exercise-MakeAPreferenceFragment
+    - Create PreferenceFragment 
+      - Add a PreferenceFragment class that extends PreferenceFragmentCompat
+      - Create a layout file for the fragment
+      - Add the fragment by putting the fragment tag in the Activity layout file
+      - Add the theme for the preference (required)
 
 
