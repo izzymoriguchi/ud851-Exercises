@@ -10,6 +10,7 @@ This is a exercise repository for Developing Android Apps.
   - [Lesson04b-Webpages-Maps-and-Sharing](#Lesson04b-Webpages-Maps-and-Sharing)
   - [Lesson05a-Android-Lifecycle](#Lesson05a-Android-Lifecycle)
   - [Lesson05b-Smarter-GitHub-Repo-Search](#Lesson05b-Smarter-GitHub-Repo-Search)
+  - [Lesson06-Visualizer-Preferences](#Lesson06-Visualizer-Preferences)
 
 ### Lesson02-GitHub-Repo-Search
 - T02.01-Exercise-CreateLayout
@@ -90,6 +91,9 @@ This is a exercise repository for Developing Android Apps.
       - Store some variables for cached results
       - Use(override) deliverResult in the case of caching
 
-
+### Lesson06-Visualizer-Preferences
+  - T06.01-Exercise-SetupTheActivity
+    - Using Visualizer app, learn how to set up preferences
+      - Create settings menu that opens up new activity
 
 
