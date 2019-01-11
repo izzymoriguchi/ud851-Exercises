@@ -118,6 +118,10 @@ This is a exercise repository for Developing Android Apps.
       - Add preference summary for ListPreference
   - T06.09-Exercise-EditTextPreference
     - Learn how to add EditTextPreference
-
+  - T06.10-Exercise-EditTextPreferenceConstraints
+    - Use OnPreferenceChangeListener in addition to OnSharedPreferenceChangeListener to handle the input error
+    - Difference
+      - SharedPreferenceChangeListener is triggered after any value is saved to the SharedPreferences file.
+      - PreferenceChangeListener is triggered before a value is saved to the SharedPreferences file. Because of this, it can prevent an invalid update to a preference.  
 
 
