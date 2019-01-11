@@ -101,5 +101,8 @@ This is a exercise repository for Developing Android Apps.
       - Create a layout file for the fragment
       - Add the fragment by putting the fragment tag in the Activity layout file
       - Add the theme for the preference (required)
+  - T06.03-Exercise-ReadingFromSharedPreferences
+      - Read preferences from SharedPreferences and update
+        - Get default shared preference by calling getDefaultSharedPreferences
 
 
