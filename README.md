@@ -102,7 +102,9 @@ This is a exercise repository for Developing Android Apps.
       - Add the fragment by putting the fragment tag in the Activity layout file
       - Add the theme for the preference (required)
   - T06.03-Exercise-ReadingFromSharedPreferences
-      - Read preferences from SharedPreferences and update
-        - Get default shared preference by calling getDefaultSharedPreferences
+    - Read preferences from SharedPreferences and update
+      - Get default shared preference by calling getDefaultSharedPreferences
+  - T06.04-Exercise-UseResources
+    - Learn how to use strings and bools resources for string/boolean constants 
 
 
