@@ -116,6 +116,8 @@ This is a exercise repository for Developing Android Apps.
   - T06.08-Exercise-PreferenceSummary
     - Learn about PreferenceSummary (the current status of each user's preference item)
       - Add preference summary for ListPreference
+  - T06.09-Exercise-EditTextPreference
+    - Learn how to add EditTextPreference
 
 
 
