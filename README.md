@@ -106,5 +106,9 @@ This is a exercise repository for Developing Android Apps.
       - Get default shared preference by calling getDefaultSharedPreferences
   - T06.04-Exercise-UseResources
     - Learn how to use strings and bools resources for string/boolean constants 
+  - T06.05-Exercise-PreferenceChangeListener
+    - PreferenceChangeListener allows the preference change to be updated right away
+    - Learn how to add PreferenceChangeListener
+
 
 
