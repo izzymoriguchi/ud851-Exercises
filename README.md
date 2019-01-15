@@ -124,4 +124,8 @@ This is a exercise repository for Developing Android Apps.
       - SharedPreferenceChangeListener is triggered after any value is saved to the SharedPreferences file.
       - PreferenceChangeListener is triggered before a value is saved to the SharedPreferences file. Because of this, it can prevent an invalid update to a preference.  
 
+### Lesson08-Quiz-Example (Content Providers)
+  - T08.01-Exercise-AddTheContentProviderPermission
+    - Add permission for read operation on manifest
+
 
