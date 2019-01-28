@@ -127,5 +127,7 @@ This is a exercise repository for Developing Android Apps.
 ### Lesson08-Quiz-Example (Content Providers)
   - T08.01-Exercise-AddTheContentProviderPermission
     - Add permission for read operation on manifest
+  - T08.02-Exercise-AddAsyncTaskToRetrieveCursor
+    - Practice using ContentResolver to query and get Cursor object through AsyncTask
 
 
