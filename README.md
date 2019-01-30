@@ -129,5 +129,7 @@ This is a exercise repository for Developing Android Apps.
     - Add permission for read operation on manifest
   - T08.02-Exercise-AddAsyncTaskToRetrieveCursor
     - Practice using ContentResolver to query and get Cursor object through AsyncTask
+  - T08.03-Exercise-FinishQuizExample
+    - Retrieve Cursor object on AsyncTask, and get data from Cursor object 
 
 
