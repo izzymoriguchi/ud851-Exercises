@@ -11,6 +11,8 @@ This is a exercise repository for Developing Android Apps.
   - [Lesson05a-Android-Lifecycle](#Lesson05a-Android-Lifecycle)
   - [Lesson05b-Smarter-GitHub-Repo-Search](#Lesson05b-Smarter-GitHub-Repo-Search)
   - [Lesson06-Visualizer-Preferences](#Lesson06-Visualizer-Preferences)
+  - [Lesson08-Quiz-Example (Content Providers)](#Lesson08-Quiz-Example)
+  - [Lesson09b-ToDo-List-AAC (Android Architecture Components)](#Lesson09b-ToDo-List-AAC)
 
 ### Lesson02-GitHub-Repo-Search
 - T02.01-Exercise-CreateLayout
@@ -131,5 +133,12 @@ This is a exercise repository for Developing Android Apps.
     - Practice using ContentResolver to query and get Cursor object through AsyncTask
   - T08.03-Exercise-FinishQuizExample
     - Retrieve Cursor object on AsyncTask, and get data from Cursor object 
+
+### Lesson09b-ToDo-List-AAC (Android Architecture Components)
+  - T09b.01-Exercise-CreateEntity
+    - Use Room
+      - Add dependency for Room
+      - Use annotations for Room (@Entity, @PrimaryKey, @Ignore)
+
 
 
