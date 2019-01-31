@@ -11,8 +11,8 @@ This is a exercise repository for Developing Android Apps.
   - [Lesson05a-Android-Lifecycle](#Lesson05a-Android-Lifecycle)
   - [Lesson05b-Smarter-GitHub-Repo-Search](#Lesson05b-Smarter-GitHub-Repo-Search)
   - [Lesson06-Visualizer-Preferences](#Lesson06-Visualizer-Preferences)
-  - [Lesson08-Quiz-Example (Content Providers)](#Lesson08-Quiz-Example)
-  - [Lesson09b-ToDo-List-AAC (Android Architecture Components)](#Lesson09b-ToDo-List-AAC)
+  - [Lesson08-Quiz-Example (Content Providers)](#Lesson08-Quiz-Example (Content Providers))
+  - [Lesson09b-ToDo-List-AAC (Android Architecture Components)](#Lesson09b-ToDo-List-AAC (Android Architecture Components))
 
 ### Lesson02-GitHub-Repo-Search
 - T02.01-Exercise-CreateLayout
@@ -139,6 +139,9 @@ This is a exercise repository for Developing Android Apps.
     - Use Room
       - Add dependency for Room
       - Use annotations for Room (@Entity, @PrimaryKey, @Ignore)
+  - T09b.02-Exercise-SaveTaskInDatabaseFromAddTaskActivity
+    - Learn how to create AppDatabase, and how to add TaskEntry
+    - DateConverter, TaskDao idea used
 
 
 
