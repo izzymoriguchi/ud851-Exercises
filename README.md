@@ -142,6 +142,8 @@ This is a exercise repository for Developing Android Apps.
   - T09b.02-Exercise-SaveTaskInDatabaseFromAddTaskActivity
     - Learn how to create AppDatabase, and how to add TaskEntry
     - DateConverter, TaskDao idea used
+  - T09b.03-Exercise-RetrieveTasksFromDatabaseAtMainActivity
+    - Add AppDatabase in MainActivity and let the adapter load TaskEntry lists through TaskDuo every time onRestore() method is called. 
 
 
 
