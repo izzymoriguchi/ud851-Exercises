@@ -150,6 +150,9 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to delete task and update views in the list
   - T09b.06-Exercise-UpdateTask
     - Learn how to update a task from the list after click
+  - T09b.07-Exercise-AddLiveData
+    - Using LiveData, we can make it more efficient because for querying data from database, it avoids querying every time onResume is called. 
+    - Now we don't need to use Executor for querying data (we still use Executor for inserting, deleting and updating)
 
 
 
