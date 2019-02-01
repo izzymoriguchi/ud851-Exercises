@@ -146,6 +146,8 @@ This is a exercise repository for Developing Android Apps.
     - Add AppDatabase in MainActivity and let the adapter load TaskEntry lists through TaskDuo every time onRestore() method is called. 
   - T09b.04-Exercise-Executors
     - Learn how to use AppExecutor to run db calls on separate thread (basic version)
+  - T09b.05-Exercise-DeleteTask
+    - Learn how to delete task and update views in the list
 
 
 
