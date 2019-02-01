@@ -148,6 +148,8 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to use AppExecutor to run db calls on separate thread (basic version)
   - T09b.05-Exercise-DeleteTask
     - Learn how to delete task and update views in the list
+  - T09b.06-Exercise-UpdateTask
+    - Learn how to update a task from the list after click
 
 
 
