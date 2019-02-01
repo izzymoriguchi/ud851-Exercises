@@ -153,6 +153,9 @@ This is a exercise repository for Developing Android Apps.
   - T09b.07-Exercise-AddLiveData
     - Using LiveData, we can make it more efficient because for querying data from database, it avoids querying every time onResume is called. 
     - Now we don't need to use Executor for querying data (we still use Executor for inserting, deleting and updating)
+  - T09b.08-Exercise-AddLiveDataToAddTaskActivity
+    - Use LiveData for AddTaskActivity in the same way
+    - Practice using LiveData for one time retrieval from database
 
 
 
