@@ -156,6 +156,9 @@ This is a exercise repository for Developing Android Apps.
   - T09b.08-Exercise-AddLiveDataToAddTaskActivity
     - Use LiveData for AddTaskActivity in the same way
     - Practice using LiveData for one time retrieval from database
+  - T09b.09-Exercise-AddTheViewModel
+    - ViewModel life cycle doesn't die from device rotation. It survives until the activity isDestroyed (not from rotating). So we don't need to re-load again when we use ViewModel
+    - ViewModel caches the list of TaskEntry so that every time the device rotates, it just get the information from the cache.
 
 
 
