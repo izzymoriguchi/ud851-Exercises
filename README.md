@@ -13,6 +13,7 @@ This is a exercise repository for Developing Android Apps.
   - [Lesson06-Visualizer-Preferences](#Lesson06-Visualizer-Preferences)
   - [Lesson08-Quiz-Example (Content Providers)](#Lesson08-Quiz-Example (Content Providers))
   - [Lesson09b-ToDo-List-AAC (Android Architecture Components)](#Lesson09b-ToDo-List-AAC (Android Architecture Components))
+  - [Lesson10-Hydration-Reminder](#Lesson10-Hydration-Reminder)
 
 ### Lesson02-GitHub-Repo-Search
 - T02.01-Exercise-CreateLayout
@@ -162,6 +163,10 @@ This is a exercise repository for Developing Android Apps.
   - T09b.10-Exercise-AddViewModelToAddTaskActivity
     - Use ViewModel to cache data in case of device rotation in AddTaskActivity
     - Practice using AddTaskViewModelFactory to get ViewModel
+
+### Lesson10-Hydration-Reminder
+  - T10.01-Exercise-IntentServices
+    - Use IntentService to update water count in the background thread
 
 
 
