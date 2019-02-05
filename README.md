@@ -167,6 +167,8 @@ This is a exercise repository for Developing Android Apps.
 ### Lesson10-Hydration-Reminder
   - T10.01-Exercise-IntentServices
     - Use IntentService to update water count in the background thread
+  - T10.02-Exercise-CreateNotification
+    - Learn how to create and enable notification
 
 
 
