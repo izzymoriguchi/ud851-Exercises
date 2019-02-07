@@ -169,6 +169,9 @@ This is a exercise repository for Developing Android Apps.
     - Use IntentService to update water count in the background thread
   - T10.02-Exercise-CreateNotification
     - Learn how to create and enable notification
+  - T10.03-Exercise-NotificationActions
+    - Learn how to clear all notifications
+    - Learn how to set up actions into notifications and handle the action button
 
 
 
