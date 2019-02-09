@@ -172,6 +172,9 @@ This is a exercise repository for Developing Android Apps.
   - T10.03-Exercise-NotificationActions
     - Learn how to clear all notifications
     - Learn how to set up actions into notifications and handle the action button
+  - T10.04-Exercise-PeriodicSyncWithJobDispatcher
+    - Learn how to use JobService (in this lesson FirebaseJobDispatcher)
+    - Learn how to schedule WaterReminderFirebaseJobService using FirebaseJobDispatcher
 
 
 
