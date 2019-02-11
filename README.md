@@ -175,6 +175,8 @@ This is a exercise repository for Developing Android Apps.
   - T10.04-Exercise-PeriodicSyncWithJobDispatcher
     - Learn how to use JobService (in this lesson FirebaseJobDispatcher)
     - Learn how to schedule WaterReminderFirebaseJobService using FirebaseJobDispatcher
+  - T10.05-Exercise-ChargingBroadcastReceiver
+    - Learn how to use a BroadcastReceiver with IntentFilter to get trigger whenever the device is charging or not charging
 
 
 
