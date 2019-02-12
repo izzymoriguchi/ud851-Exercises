@@ -177,6 +177,8 @@ This is a exercise repository for Developing Android Apps.
     - Learn how to schedule WaterReminderFirebaseJobService using FirebaseJobDispatcher
   - T10.05-Exercise-ChargingBroadcastReceiver
     - Learn how to use a BroadcastReceiver with IntentFilter to get trigger whenever the device is charging or not charging
+  - T10.06-Exercise-StickyBroadcastForCharging
+    - In onResume, check the battery status using BatteryManager or sticky broadcast receiver based on the API level, and change the color of image.
 
 
 
